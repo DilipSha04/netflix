@@ -373,7 +373,7 @@ h3{
 
 /*******Media query*****/
 
-@media screen and (max-width:1260px) {
+@media screen and (max-width:80em) {
     .main-container, .hero-section, .download-section, .computer-screen, .children-profile, .faq-section, .line, .main-footer{
         /* background-color: rgb(0, 0, 0); */
         display: none;
