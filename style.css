@@ -89,18 +89,19 @@ h3{
 }
 .search input{
     border-radius: 6px;
-    padding: 1.4rem 16rem 1.4rem 2rem;
-    font-size: 1.4rem;
+    padding: 1rem 16rem 1rem 2rem;
+    font-size: 1.2rem;
+    outline: transparent;
 }
 .btn{
     position: absolute;
     top:82%;
-    left: 58%;
+    left: 56%;
     border: none;
 }
 .btn button{
-    font-size: 1.6rem;
-    padding: 1.4rem 2rem;
+    font-size: 1.4rem;
+    padding: 1rem 2rem;
     border-radius: 6px;
     background-color: #e50914;
     color: white;
@@ -119,6 +120,7 @@ h3{
     background-color: black;
     display: flex;
     flex-direction: row;
+    /* position: absolute; */
 }
 .hero-1, .hero-2{
     flex: 2;
@@ -126,26 +128,39 @@ h3{
     text-align: center;
     color: white;
     font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    /* position: absolute; */
 }
 .section-text{
-    margin: 10rem 2rem;
+    margin: 13rem 2rem;
 }
 .hero-text{
-    font-size: 3.8rem;
+    font-size: 2.8rem;
     font-weight: 800;
+    margin-inline: auto;
 
 }
 .hero-text-small{
     font-size: 2rem;
+    margin-inline: auto;
+}
+.tv-img{
+    height:55%;
+    width: 60%;
+    position: relative;
+    top: 20%;
+    right: 5%;
+
 }
 .tv-video{
     position: relative;
     overflow: hidden;
     z-index: -1;
-    bottom: 24.5rem;
-    left: -2px;
-    width: 60%;
-    padding: 10px;
+    bottom: 15.5rem;
+    /* top: 20%; */
+    left: -12px;
+    width: 50%;
+    height: 60%;
+    /* padding: 2px; */
 }
 
 /********Download section********/
@@ -153,23 +168,27 @@ h3{
 .down-section-1, .down-section-2{
     flex: 2;
     text-align: center;
-    margin: auto;
+    margin-inline: auto;
     padding: 20px 0;
     font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
     color: white;
 }
 .down-section-text{
-    font-size: 4rem;
+    font-size: 3rem;
     font-weight: 800;
-    margin-right: 100px;
+    text-align: center;
+    margin-inline: 3rem;
+    margin-top: 7rem;
+    /* margin-right: 100px; */
     
 }
 .down-section-smalltext{
     font-size: 2rem;
-    margin: 0 50px;
+    text-align: center;
+    margin-inline:1rem;
 }
 .download-img{
-    margin-left: 100px;
+    margin-left: 4rem;
 }
 .download{
     display: flex;
@@ -178,7 +197,7 @@ h3{
     overflow: hidden;
     position: relative;
     bottom: 10rem;
-    left: 33%;
+    left: 31%;
     width: 45%;
     border-radius: 15px;
     background-color: black;
@@ -239,6 +258,9 @@ h3{
     width: 100%;
     background-color: black;
     display: flex;
+}
+.children-img{
+    margin-top: 3rem;
 }
 
 /*******faq section*******/
