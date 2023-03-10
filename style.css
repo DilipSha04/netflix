@@ -34,7 +34,7 @@ select,button{
 select{
     background: transparent;
     color: white;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     padding: 0.4rem 0.8rem;
 }
 .btn-sign{
@@ -42,7 +42,7 @@ select{
     color: white;
     padding: 0.4rem 0.8rem;
     border-radius: 5px;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
 }
 .signup{
     position: absolute;
@@ -54,7 +54,7 @@ select{
     position: absolute;
     top: 40%;
     left: 12%;
-    margin-inline: 5rem;
+    margin-inline: 3rem;
 }
 h1{
     color: white;
