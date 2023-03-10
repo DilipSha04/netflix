@@ -318,7 +318,7 @@ h3{
     left: 24%;
 }
 .footer-login > .search input{
-    padding: 14px 180px 14px 12px;
+    padding: 1rem 16rem 1rem 2rem;
     font-size: 22px;
 }
 .footer-login > .btn{
@@ -329,7 +329,7 @@ h3{
 }
 .footer-login > .btn button{
     font-size: 22px;
-    padding: 14px 25px;
+    padding: 16px 25px;
     border-radius: none;
     background-color: #e50914;
     color: white;
