@@ -189,6 +189,7 @@ h3{
 }
 .download-img{
     margin-left: 4rem;
+    width: 80%;
 }
 .download{
     display: flex;
@@ -261,7 +262,7 @@ h3{
     display: flex;
 }
 .children-img{
-    margin-top: 3rem;
+    margin-top: 1rem;
 }
 
 /*******faq section*******/
@@ -274,7 +275,7 @@ h3{
 }
 .faq-head-text{
     text-align: center;
-    padding-left: 12rem;
+    padding-left: 3rem;
     padding-top: 2rem;
 }
 .questions{
@@ -284,7 +285,7 @@ h3{
 .faq{
     padding: 1.5rem;
     margin: 1rem 0;
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
     text-transform: capitalize;
     background-color: rgb(45 45 45);
@@ -317,7 +318,7 @@ h3{
     left: 30%;
 }
 .footer-login > .search input{
-    padding: 24px 180px 24px 12px;
+    padding: 14px 180px 14px 12px;
     font-size: 22px;
 }
 .footer-login > .btn{
@@ -328,7 +329,7 @@ h3{
 }
 .footer-login > .btn button{
     font-size: 26px;
-    padding: 24px 25px;
+    padding: 14px 25px;
     border-radius: none;
     background-color: #e50914;
     color: white;
