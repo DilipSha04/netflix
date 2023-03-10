@@ -20,7 +20,7 @@
 .language{
     position: absolute;
     top: 6%;
-    right: 16%;
+    right: 14%;
     margin: 0px 25px;
     border: 1px solid white;
     border-radius: 6px;
@@ -54,12 +54,13 @@ select{
     position: absolute;
     top: 40%;
     left: 12%;
+    margin-inline: 5rem;
 }
 h1{
     color: white;
     text-align: center;
     font-size: 3.125rem;
-    margin: auto;
+    /* margin-inline: auto; */
     font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
 }
 .media{
@@ -84,7 +85,7 @@ h3{
 .search{
     position: absolute;
     top: 82%;
-    left: 26%;
+    left: 22%;
 }
 .search input{
     border-radius: 6px;
@@ -94,7 +95,7 @@ h3{
 .btn{
     position: absolute;
     top:82%;
-    left: 62%;
+    left: 58%;
     border: none;
 }
 .btn button{
