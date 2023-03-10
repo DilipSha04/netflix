@@ -89,7 +89,7 @@ h3{
 }
 .search input{
     border-radius: 6px;
-    padding: 1rem 16rem 1rem 2rem;
+    padding: 1rem 14rem 1rem 2rem;
     font-size: 1.2rem;
     outline: transparent;
 }
@@ -318,8 +318,8 @@ h3{
     left: 24%;
 }
 .footer-login > .search input{
-    padding: 1rem 16rem 1rem 2rem;
-    font-size: 22px;
+    padding: 1rem 14rem 1rem 2rem;
+    font-size: 1.2rem;
 }
 .footer-login > .btn{
     position:absolute;
@@ -328,8 +328,8 @@ h3{
     border: none;
 }
 .footer-login > .btn button{
-    font-size: 22px;
-    padding: 16px 25px;
+    font-size: 1.2;
+    padding: 2rem 5rem;
     border-radius: none;
     background-color: #e50914;
     color: white;
