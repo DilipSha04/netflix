@@ -96,7 +96,7 @@ h3{
 .btn{
     position: absolute;
     top:82%;
-    left: 58%;
+    left: 64%;
     border: none;
 }
 .btn button{
@@ -131,16 +131,16 @@ h3{
     /* position: absolute; */
 }
 .section-text{
-    margin: 13rem 2rem;
+    margin-top: 5rem;
 }
 .hero-text{
-    font-size: 2.8rem;
+    font-size: 2.6rem;
     font-weight: 800;
     margin-inline: auto;
 
 }
 .hero-text-small{
-    font-size: 2rem;
+    font-size: 1.8rem;
     margin-inline: auto;
 }
 .tv-img{
@@ -155,11 +155,11 @@ h3{
     position: relative;
     overflow: hidden;
     z-index: -1;
-    bottom: 15.5rem;
+    bottom: 13rem;
     /* top: 20%; */
-    left: -12px;
-    width: 50%;
-    height: 60%;
+    left: -18px;
+    width: 48%;
+    height: 57%;
     /* padding: 2px; */
 }
 
@@ -174,16 +174,16 @@ h3{
     color: white;
 }
 .down-section-text{
-    font-size: 3rem;
+    font-size: 2.6rem;
     font-weight: 800;
     text-align: center;
     margin-inline: 3rem;
-    margin-top: 7rem;
+    margin-top: 5rem;
     /* margin-right: 100px; */
     
 }
 .down-section-smalltext{
-    font-size: 2rem;
+    font-size: 1.8rem;
     text-align: center;
     margin-inline:1rem;
 }
@@ -204,25 +204,25 @@ h3{
 }
 .download-title{
     font-weight: 700;
-    font-size: 22px;
-    padding: 35px 5px;
+    font-size: 20px;
+    padding: 25px 5px;
     
 }
 .title-img{
-    height: 7rem;
-    padding: 10px 15px;
+    height: 6rem;
+    padding: 9px;
 }
 .title-span{
     position: absolute;
     left: 29%;
     top:60%;
     color: rgb(28, 28, 202);
-    font-size: 18px;
+    font-size: 16px;
 }
 .material-symbols-outlined{
     position: absolute;
     right: 5%;
-    top:40%;
+    top:30%;
 }
 
 /*******computer-screen*****/
