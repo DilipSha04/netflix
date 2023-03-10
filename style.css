@@ -315,7 +315,7 @@ h3{
    
     position: absolute;
     top: 65%;
-    left: 30%;
+    left: 24%;
 }
 .footer-login > .search input{
     padding: 14px 180px 14px 12px;
@@ -324,11 +324,11 @@ h3{
 .footer-login > .btn{
     position:absolute;
     top: 65%;
-    left: 60%;
+    left: 62%;
     border: none;
 }
 .footer-login > .btn button{
-    font-size: 26px;
+    font-size: 22px;
     padding: 14px 25px;
     border-radius: none;
     background-color: #e50914;
