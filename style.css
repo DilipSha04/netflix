@@ -324,12 +324,12 @@ h3{
 .footer-login > .btn{
     position:absolute;
     top: 65%;
-    left: 62%;
+    left: 64%;
     border: none;
 }
 .footer-login > .btn button{
-    font-size: 1.2rem;
-    padding: 2rem 5rem;
+    font-size: 1.3rem;
+    padding: 1rem 2rem;
     border-radius: none;
     background-color: #e50914;
     color: white;
